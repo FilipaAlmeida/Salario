@@ -9,7 +9,7 @@ public class EmpregadoTeste_1 {
 	  double x = calculo (salario);
 	  System.out.println(x);
 	}
-	
+	//cvgvghbjhnjn
 	public double calculo (double salario){
 		salario *= 12;
 		return salario;
